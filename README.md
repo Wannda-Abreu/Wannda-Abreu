@@ -1,5 +1,5 @@
 ## Hi there! 👋
-![Profile Image]([https://example.com/path/to/your/image.png](https://pin.it/2zvoiln))
+![Profile Image](https://i.pinimg.com/originals/c6/97/3a/c6973a6c1ef3378c8d87d752899a7e17.png)
 
 I'm Wanda Abreu Díaz, a passionate Full Stack Developer, constantly embracing change and seeking new challenges in the world of programming.
 
