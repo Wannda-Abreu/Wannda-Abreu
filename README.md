@@ -23,7 +23,7 @@ I'm Wanda Abreu Díaz, Full Stack Developer student, constantly embracing change
 - [Catch a Coder](https://github.com/afterdarkv1/Catch-a-Coder)
 
                                                                                       
-### ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/Wannda-Abreu">
