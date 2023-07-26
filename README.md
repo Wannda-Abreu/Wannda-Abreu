@@ -16,13 +16,19 @@ I'm Wanda Abreu Díaz, Full Stack Developer student, constantly embracing change
 
 Let's connect and collaborate on exciting projects! 🚀
 </div>
+
+## Contributions
+- [Digital Crafters](https://github.com/sophiawm/digital-crafters)
+- [Inmersia](https://github.com/Wannda-Abreu/Inmersia)
+- [Catch a Coder](https://github.com/afterdarkv1/Catch-a-Coder)
+
                                                                                       
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/Wannda-Abreu">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Wannda-Abreu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Wannda-Abreu&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Wannda-Abreu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Wannda-Abreu&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
