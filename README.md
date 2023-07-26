@@ -12,12 +12,12 @@ I'm Wanda Abreu Díaz, Full Stack Developer student, constantly embracing change
 - ✈️ Traveling is one of my greatest passions, discovering new places and cultures enriches my perspective.
 - 🧶 In my spare time, you'll find me knitting, a relaxing hobby that allows me to unwind and express creativity.
 - 🎉 Enjoying quality time with friends is essential to me, creating memories and sharing laughter.
--As a programmer, I believe in continuous improvement, striving to exceed my own limits and deliver innovative solutions.
+- ✍🏻As a programmer, I believe in continuous improvement, striving to exceed my own limits and deliver innovative solutions.
 
-Let's connect and collaborate on exciting projects! 🚀
+### Let's connect and collaborate on exciting projects! 🚀
 </div>
 
-## Contributions
+## ❤️ Contributions
 - [Digital Crafters](https://github.com/sophiawm/digital-crafters)
 - [Inmersia](https://github.com/Wannda-Abreu/Inmersia)
 - [Catch a Coder](https://github.com/afterdarkv1/Catch-a-Coder)
